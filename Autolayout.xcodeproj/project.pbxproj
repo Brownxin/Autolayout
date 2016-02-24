@@ -97,12 +97,10 @@
 		C0EA9A621C7E041D00F2E861 /* Autolayout */ = {
 			isa = PBXGroup;
 			children = (
-				C0EA9A631C7E041D00F2E861 /* AppDelegate.swift */,
+				C0EA9A911C7E043200F2E861 /* Support Files */,
 				C0EA9A651C7E041D00F2E861 /* ViewController.swift */,
 				C0EA9A671C7E041D00F2E861 /* Main.storyboard */,
 				C0EA9A6A1C7E041D00F2E861 /* Assets.xcassets */,
-				C0EA9A6C1C7E041D00F2E861 /* LaunchScreen.storyboard */,
-				C0EA9A6F1C7E041D00F2E861 /* Info.plist */,
 			);
 			path = Autolayout;
 			sourceTree = "<group>";
@@ -123,6 +121,16 @@
 				C0EA9A851C7E041D00F2E861 /* Info.plist */,
 			);
 			path = AutolayoutUITests;
+			sourceTree = "<group>";
+		};
+		C0EA9A911C7E043200F2E861 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				C0EA9A631C7E041D00F2E861 /* AppDelegate.swift */,
+				C0EA9A6C1C7E041D00F2E861 /* LaunchScreen.storyboard */,
+				C0EA9A6F1C7E041D00F2E861 /* Info.plist */,
+			);
+			name = "Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
